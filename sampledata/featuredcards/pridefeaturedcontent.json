@@ -1,0 +1,20 @@
+﻿{
+  "cards": [
+    {
+      "cardId": "1",
+      "title": "Pride Calendar",
+      "icon": "date_range",
+      "blurb": "Browse the Calendar for upcoming PRIDE Sessions and enroll in available sessions",
+      "btnText": "Click Me!",
+      "link": "#"
+    },
+    {
+      "cardId": "2",
+      "title": "Profile Enhancements!",
+      "icon": "assignment",
+      "blurb": "Check out the QRG for the new Direct Report Universal Profile enhancements",
+      "btnText": "Click Me!",
+      "link":  "#"
+    }
+  ]
+}

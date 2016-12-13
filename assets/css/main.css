@@ -1,0 +1,58 @@
+﻿.mainarea {
+    max-width: 1033px;
+}
+.wrapper {
+    min-width: 700px;
+}
+.accentbar {
+    min-height:6px;
+}
+.contentcontainer {
+    max-width: 695px;
+    min-width: 500px;
+}
+/*Welcome Card*/
+.welcomecard {
+    background: url('../img/alpsfeatbg.png') no-repeat center center;
+    max-height: 457px;
+    height: 457px;
+    max-width: 695px;
+}
+/*Learning Cards*/
+.learningcard {
+    max-width: 338px;
+    max-height: 196px;
+    height: 196px;
+}
+/*Featured Content Card*/
+.featcontentcard {
+    max-height: 239px;
+    height: 239px;
+    max-width: 695px;
+    min-width: 500px;
+}
+/*Secondary Featured Content Cards*/
+.featarea-2-container {
+    min-width: 515px;
+    max-width: 695px;
+}
+.featarea-2 {
+    height: 196px;
+    max-height: 239px;
+    min-width: 225px;
+}
+
+
+/*Right Nav Cards*/
+.rightnavcard {
+    max-width: 340px;
+    /*width: 340px;*/
+}
+.themebar {
+    min-height:45px;
+}
+.themebartitle {
+    height: 45px;
+}
+
+

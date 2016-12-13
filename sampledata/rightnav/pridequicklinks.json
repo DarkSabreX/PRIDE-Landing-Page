@@ -1,0 +1,41 @@
+﻿{
+  "linkopts": [
+    {
+      "type": "link",
+      "title": "PRIDE Session Calendar",
+      "icon": "date_range",
+      "url": "#"
+    },
+    {
+      "type": "toggle",
+      "title": "Competency QRGs",
+      "icon": "",
+      "subitems": [
+        {
+          "type": "link",
+          "title": "Coach Competency QRG",
+          "icon": "assignment",
+          "url": "#"
+        },
+        {
+          "type": "link",
+          "title": "Trainer Competency QRG",
+          "icon": "assignment",
+          "url": "#"
+        },
+        {
+          "type": "link",
+          "title": "Manager Competency QRG",
+          "icon": "assignment",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "type": "link",
+      "title": "placeholder",
+      "icon": "",
+      "url": "#"
+    }
+  ] 
+}
